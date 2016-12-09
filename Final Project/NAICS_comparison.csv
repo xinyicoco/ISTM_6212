@@ -1,0 +1,49 @@
+NAICS_code,NAICS_title,Value_2012,Value_2007,Percent_change,Tons_2012,Tons_2007,Percent_change1,Ton_miles_2012,Ton_miles_2007,Percent_change2,Miles_per_shipment_2012,Miles_per_shipment_2007,Percent_change3
+212,Mining (except oil and gas) ,99888,85730,16.5,2900863,3638118,-20.3,859267,1057505,-18.7,47,53,-11.1
+311,Food manufacturing ,744573,585676,27.1,545892,568950,-4.1,261169,264425,-1.2,239,305,-21.6
+312,Beverage and tobacco product manufacturing ,142936,129804,10.1,159843,143530,11.4,49408,42063,17.5,292,227,28.3
+313,Textile mills ,30328,35936,-15.6,7101,8989,-21,3731,4133,-9.7,765,811,-5.6
+314,Textile product mills ,21595,28448,-24.1,5096,7022,-27.4,2313,3131,-26.1,918,854,7.6
+315,Apparel manufacturing ,12462,24381,-48.9,515,1463,-64.8,402,1400,-71.3,1169,1224,-4.5
+316,Leather and allied product manufacturing ,4870,5441,-10.5,688,636,8.1,707,789,-10.3,1105,1118,-1.1
+321,Wood product manufacturing ,76802,100923,-23.9,211440,218834,-3.4,59705,78742,-24.2,341,343,-0.5
+322,Paper manufacturing ,180585,174780,3.3,156327,166472,-6.1,83270,89418,-6.9,532,494,7.7
+323,Printing and related support activities ,79263,98848,-19.8,21535,33661,-36,10296,15936,-35.4,769,791,-2.7
+324,Petroleum and coal products manufacturing ,835321,608090,37.4,1222084,1415099,-13.6,165106,207148,-20.3,216,222,-2.8
+325,Chemical manufacturing ,785839,713674,10.1,609778,594262,2.6,313078,279917,11.8,887,847,4.6
+326,Plastics and rubber products manufacturing ,216973,209268,3.7,59798,66753,-10.4,33421,37394,-10.6,764,679,12.5
+327,Nonmetallic mineral product manufacturing ,98603,124713,-20.9,707054,1060926,-33.4,73594,98086,-25,180,170,5.9
+331,Primary metal manufacturing ,265380,251412,5.6,189419,201339,-5.9,87875,98318,-10.6,602,545,10.5
+332,Fabricated metal product manufacturing ,333287,338290,-1.5,96723,118350,-18.3,38545,44620,-13.6,562,596,-5.7
+333,Machinery manufacturing ,402610,343262,17.3,36938,40523,-8.8,26510,31565,-16,889,917,-3.1
+334,Computer and electronic product manufacturing ,331636,389399,-14.8,4576,5416,-15.5,3791,4442,-14.6,1164,1205,-3.4
+335,"Electrical equipment, appliance, and component manufacturing ",120145,128868,-6.8,16619,18771,-11.5,12347,15436,-20,998,938,6.4
+336,Transportation equipment manufacturing ,782011,715294,9.3,80977,94023,-13.9,38028,45264,-16,806,801,0.5
+337,Furniture and related product manufacturing ,66809,83494,-20,14850,18700,-20.6,9652,11480,-15.9,792,715,10.9
+339,Miscellaneous manufacturing ,147284,144279,2.1,8599,10941,-21.4,6571,9350,-29.7,1003,1017,-1.4
+42,Wholesale trade ,6119269,4740065,29.1,3780403,3605531,4.9,723220,767100,-5.7,413,430,-4
+423,"Merchant wholesalers, durable goods ",2605062,2352345,10.7,969034,1361146,-28.8,228502,264780,-13.7,455,501,-9.2
+4231,Motor vehicle and motor vehicle parts and supplies merchant wholesalers ,540855,503333,7.5,66571,81203,-18,31340,29489,6.3,381,532,-28.4
+4232,Furniture and home furnishing merchant wholesalers ,66139,74305,-11,16524,23358,-29.3,9024,12730,-29.1,672,663,1.3
+4233,Lumber and other construction materials merchant wholesalers ,114200,153528,-25.6,329887,498825,-33.9,31865,43488,-26.7,87,141,-38.4
+4234,Professional and commercial equipment and supplies merchant wholesalers ,437435,397976,9.9,22255,21817,2,12219,9088,34.5,642,716,-10.2
+4235,Metal and mineral (except petroleum) merchant wholesalers ,202708,191673,5.8,151632,182041,-16.7,49683,43016,15.5,223,192,16.1
+4236,Electrical and electronic goods merchant wholesalers ,450951,338597,33.2,26276,24469,7.4,12083,11663,3.6,517,474,9.1
+4237,"Hardware, plumbing and heating equipment and supplies merchant wholesalers ",125401,119464,5,18443,28474,-35.2,5011,5563,-9.9,257,213,20.5
+4238,"Machinery, equipment, and supplies merchant wholesalers ",433454,363108,19.4,64434,74069,-13,14655,16716,-12.3,323,322,0.2
+4239,Miscellaneous durable goods merchant wholesalers ,233919,210361,11.2,273012,426888,-36,62620,93027,-32.7,829,911,-9
+424,"Merchant wholesalers, nondurable goods ",3514207,2387720,47.2,2811368,2244386,25.3,494718,502320,-1.5,321,311,3.3
+4241,Paper and paper product merchant wholesalers ,96163,100860,-4.7,39288,50888,-22.8,7602,15513,-51,314,282,11.3
+4242,Drugs and druggists sundries merchant wholesalers ,535889,409264,30.9,12815,23407,-45.2,6710,9611,-30.2,487,478,1.9
+4243,"Apparel, piece goods, and notions merchant wholesalers ",121916,119239,2.2,9535,9468,0.7,8015,8484,-5.5,997,933,6.9
+4244,Grocery and related product merchant wholesalers ,647284,567732,14,336965,321626,4.8,66571,81594,-18.4,123,109,13.4
+4245,Farm product raw material merchant wholesalers ,239194,143358,66.9,642820,623826,3,260458,240207,8.4,265,145,82.8
+4246,Chemical and allied products merchant wholesalers ,153656,119923,28.1,104935,119971,-12.5,22535,31344,-28.1,223,237,-6.2
+4247,Petroleum and petroleum products merchant wholesalers ,1319585,610759,116.1,1396357,846636,64.9,77968,52112,49.6,74,70,6.2
+4248,"Beer, wine, and distilled alcoholic beverage merchant wholesalers ",120471,100154,20.3,55359,55667,-0.6,2973,3194,-6.9,43,40,6.4
+4249,Miscellaneous nondurable goods merchant wholesalers ,280049,216429,29.4,213293,192897,10.6,41886,60260,-30.5,445,481,-7.6
+4541,Electronic shopping and mail-order houses ,318266,216817,46.8,11966,7305,63.8,9392,6398,46.8,1173,1169,0.4
+45431,Fuel dealers ,35694,38220,-6.6,36034,48438,-25.6,734,1784,-58.8,19,22,-16.8
+4931,Warehousing and storage ,1207896,903398,33.7,294522,187219,57.3,60458,46335,30.5,748,833,-10.2
+5111,"Newspaper, periodical, book, and directory publishers ",49500,38082,30,11660,11892,-2,2130,2279,-6.6,,250,
+551114,"Corporate, subsidiary, and regional managing offices ",342317,428280,-20.1,108111,250262,-56.8,34782,80199,-56.6,769,784,-1.9
